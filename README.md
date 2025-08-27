@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanidhya-sahu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya-sahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph](https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm)"  />
+  <img src="https://streak-stats.demolab.com?user=akshatrsingh21&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatrsingh21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" width="150" height="150" src="[https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZiOGh3ZWI1OHI0amR4NXptbW8xeHBrZnp2NnB1OXpzZmdxamtoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)"  />
+<img align="right" width="150" height="150" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  />
 
 ###
 
