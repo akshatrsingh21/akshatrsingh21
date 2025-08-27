@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" width="150" height="150" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  />
+<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
 
 ###
 
