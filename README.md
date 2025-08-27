@@ -9,8 +9,7 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
-
+<img align="right" width="150" height="150" src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc"  />
 ###
 
 <div align="left">
