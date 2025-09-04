@@ -78,6 +78,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatrsingh21/akshatrsingh21/output/github-contribution-grid-snake.svg">
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/akshatrsingh21/akshatrsingh21/output/github-contribution-grid-snake.svg">
 </picture>
+
 ###
 
 <div align="left">
